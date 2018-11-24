@@ -35,3 +35,4 @@ async def on_message(message):
     if message.content == 'bc:bongo':
         await client.send_message(message.channel,'cat')
 client.run('NTE1NjkyMDQ5NDkyNjA3MDA3.DtozyQ.3ghAIAWFLMtI9IQwWMJ9y64H8Xw')
+client.login(process.env.BOT_TOKEN)
