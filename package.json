@@ -1,0 +1,13 @@
+{
+  "name": "Bongo",
+  "description": "Bongo Cat",
+  "version": "0.0.0",
+  "main": "bongo.py",
+  "scripts": {
+    "start": "bongo.py"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+   }
+}
