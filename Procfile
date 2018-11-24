@@ -1,1 +1,1 @@
-worker: node bongo.py
+worker: python bongo.py
